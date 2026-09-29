@@ -54,7 +54,7 @@ I focus on the process first, then choose the simplest architecture that can be 
 
 **2. AI qualification.** Each lead's website is fetched and classified, an LLM picks which pages matter and extracts evidence about the business's stack and services, and a rules step decides the outcome. Every decision is saved with an audit log. Qualified leads are pushed to Google Sheets with contact emails, and daily reports go out by email, Telegram, and HTML.
 
-![Lead qualification workflow](assets/lead-qualification-workflow.png)
+![Lead qualification workflow](assets/Lead-qualification-workflow.png)
 
 ## How I Work
 
